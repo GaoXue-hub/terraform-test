@@ -15,7 +15,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "GAOXUE"
     workspaces {
-      name="desktop-tutorial"
+      name="terraform-test"
     }
     token = "ygyIiXMgLicstw.atlasv1.KYesbOEtXVl9KlkJ8C9nfzgWCMzlGHFzaqOgqImAhnlaQtH0HN2ShvTWT0W5HRw2abI"
   }
