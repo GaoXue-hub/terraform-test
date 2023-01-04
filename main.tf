@@ -1,5 +1,7 @@
 provider "aws" {
   region = "ap-northeast-1"
+  access_key = "AKIAS662AALL3BMYB42P"
+  secret_key = "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"
 }
 
 terraform {
@@ -15,7 +17,6 @@ terraform {
     workspaces {
       name="terraform-test"
     }
-    token = "fRZ0FFtOfpyscA.atlasv1.lyqzXFD3ODLFLM3XCpjsY9EnpcIXmAW6VzWnrS8KXZGubw6QJP1Y97gSigh0llUuz94"
   }
 }
 
