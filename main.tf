@@ -15,7 +15,7 @@ terraform {
     workspaces {
       name="terraform-test"
     }
-    token = "ygyIiXMgLicstw.atlasv1.KYesbOEtXVl9KlkJ8C9nfzgWCMzlGHFzaqOgqImAhnlaQtH0HN2ShvTWT0W5HRw2abI"
+    token = "fRZ0FFtOfpyscA.atlasv1.lyqzXFD3ODLFLM3XCpjsY9EnpcIXmAW6VzWnrS8KXZGubw6QJP1Y97gSigh0llUuz94"
   }
 }
 
